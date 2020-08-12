@@ -1,6 +1,7 @@
-# RavaVPN最新下载地址
-[传送门1](https://ravaff.vip)
-[传送门2](https://anyuezhixin.cn)
+# RavaVPN最新下载地址(2020.8.13更新）
+[ravaff.vip](https://ravaff.vip)
+</br>
+[anyuezhixin.cn](https://anyuezhixin.cn)
 
 
 ### 获取官网最新地址方法：
