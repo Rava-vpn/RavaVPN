@@ -5,4 +5,4 @@
 
 
 ### 获取官网最新地址方法：
-[点开右上角设置按钮]: https://github.com/Rava-vpn/RavaVPN/blob/master/pic/2.jpeg
+<img src="https://github.com/Rava-vpn/RavaVPN/blob/master/pic/2.jpeg"/>
