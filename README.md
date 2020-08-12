@@ -6,3 +6,4 @@
 
 ### 获取官网最新地址方法：
 <img src="https://github.com/Rava-vpn/RavaVPN/blob/master/pic/2.jpeg" width="375" alt="打开右上角'设置'按钮"/>
+[打开右上角设置按钮]
